@@ -3,7 +3,7 @@
 Please ensure the following items are checked before merging:
 
 ## ✅ QA & Testing
-- [ ] QA tests completed successfully - please see [QA processes/best practices](#)
+- [ ] QA tests completed successfully - please see [QA processes/best practices](https://seafairworkspace.slack.com/docs/T011CB745ST/F07QHLD923A)
   - You can merge PRs **only if there is a successful run comment**.
   - Then remove the `run end-to-end test` label to proceed.
 
