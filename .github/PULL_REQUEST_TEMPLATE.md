@@ -23,4 +23,4 @@ Please ensure the following items are checked before merging:
 ---
 
 **Note:** If any of the above criteria are not met, please discuss with your team before proceeding with the merge. 🚦
-📌 **[View this checklist online](https://seafairworkspace.slack.com/docs/T011CB745ST/F07QHLD923A)**  
+📌 **[View this checklist on slack](https://seafairworkspace.slack.com/docs/T011CB745ST/F07QHLD923A)**  
